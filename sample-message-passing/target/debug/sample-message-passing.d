@@ -1,0 +1,1 @@
+/Users/teshima/src/github.com/Teshima-Tatsuya/rust-study/sample-message-passing/target/debug/sample-message-passing: /Users/teshima/src/github.com/Teshima-Tatsuya/rust-study/sample-message-passing/src/main.rs
